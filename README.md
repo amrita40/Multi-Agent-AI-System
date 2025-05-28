@@ -18,7 +18,7 @@ Here’s a screenshot of the system in action:
 
 ### Video
 
-!-- Failed to upload "Screen Recording 2025-05-29 023808.mp4" 
+https://github.com/amrita40/Flowbit-AI-internship/blob/f2b1d2d0081ee8b6a8644114f6f3b6dacf0030b4/Screen%20Recording%202025-05-29%20023808.mp4
 
 
 
