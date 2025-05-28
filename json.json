@@ -1,0 +1,19 @@
+[
+  {
+    "source": "alice@company.com",
+    "text": "Hi, this is a Request for Quote (RFQ) from alice@company.com regarding services."
+  },
+  
+  {
+    "source": "json.json",
+    "text": "json.json"
+  },
+  {
+    "source": "Untitled design.pdf",
+    "text": "Untitled design.pdf"
+  },
+  {
+    "source": "intern.wav",
+    "text": "intern.wav"
+  }
+]
