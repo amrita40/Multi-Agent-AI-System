@@ -18,7 +18,7 @@ Here’s a screenshot of the system in action:
 
 ### Video
 
-[![Watch the demo]("C:\Users\amrit\Videos\Screen Recordings\Screen Recording 2025-05-29 023808.mp4")]("C:\Users\amrit\Videos\Screen Recordings\Screen Recording 2025-05-29 023808.mp4")
+!-- Failed to upload "Screen Recording 2025-05-29 023808.mp4" 
 
 
 
