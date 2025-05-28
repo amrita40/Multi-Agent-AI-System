@@ -9,9 +9,19 @@ This project is a multi-agent AI system designed to intelligently process and cl
 
 Here’s a screenshot of the system in action:
 
-## Demo Screenshot
 
-![System Screenshot](assets/Screenshot-2025-05-29-024534.png)
+## Demo
+
+### Screenshot
+
+![Output Screenshot]()
+
+### Video
+
+[![Watch the demo]("C:\Users\amrit\Videos\Screen Recordings\Screen Recording 2025-05-29 023808.mp4")]("C:\Users\amrit\Videos\Screen Recordings\Screen Recording 2025-05-29 023808.mp4")
+
+
+
 ## Features
 
 - **Automatic Format & Intent Classification:**  
