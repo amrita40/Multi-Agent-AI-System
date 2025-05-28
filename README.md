@@ -18,7 +18,8 @@ Here’s a screenshot of the system in action:
 
 ### Video
 
-https://github.com/amrita40/Flowbit-AI-internship/blob/f2b1d2d0081ee8b6a8644114f6f3b6dacf0030b4/Screen%20Recording%202025-05-29%20023808.mp4
+[▶️ Watch Demo Video](https://github.com/amrita40/Flowbit-AI-internship/blob/f2b1d2d0081ee8b6a8644114f6f3b6dacf0030b4/Screen%20Recording%202025-05-29%20023808.mp4)
+
 
 
 
