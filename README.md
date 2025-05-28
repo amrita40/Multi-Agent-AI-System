@@ -5,7 +5,12 @@
 This project is a multi-agent AI system designed to intelligently process and classify incoming business documents in various formats (PDF, JSON, Email/text). The system automatically detects the format and intent of each input, routes it to the appropriate specialized agent, and maintains a shared context for traceability and chaining.
 
 ---
+## Demo
 
+Here’s a screenshot of the system in action:
+
+![System Demo Screenshot](![image](https://github.com/user-attachments/assets/82866487-9e4d-473e-9ba5-a500c100b5b3)
+)
 ## Features
 
 - **Automatic Format & Intent Classification:**  
