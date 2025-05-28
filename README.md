@@ -14,7 +14,7 @@ Here’s a screenshot of the system in action:
 
 ### Screenshot
 
-![Output Screenshot]()
+![Output Screenshot](https://github.com/amrita40/Flowbit-AI-internship/blob/73e28a5a0ac62447e325b8063ed585d22ace9db1/Screenshot%202025-05-29%20033520.png)
 
 ### Video
 
