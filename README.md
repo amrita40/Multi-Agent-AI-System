@@ -9,7 +9,8 @@ This project is a multi-agent AI system designed to intelligently process and cl
 
 Here’s a screenshot of the system in action:
 
-![System Demo Screenshot](![image](https://github.com/user-attachments/assets/82866487-9e4d-473e-9ba5-a500c100b5b3)
+![![image](https://github.com/user-attachments/assets/3c235f91-f9f4-4bf7-9c76-070e1356b75a)
+](![image](https://github.com/user-attachments/assets/82866487-9e4d-473e-9ba5-a500c100b5b3)
 )
 ## Features
 
