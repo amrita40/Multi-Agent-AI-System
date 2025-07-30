@@ -13,11 +13,6 @@ This project is a multi-agent AI system designed to intelligently process and cl
 
 ![Output Screenshot](https://github.com/amrita40/Flowbit-AI-internship/blob/73e28a5a0ac62447e325b8063ed585d22ace9db1/Screenshot%202025-05-29%20033520.png)
 
-### Video
-
-[▶️ Watch Demo Video](https://github.com/amrita40/Flowbit-AI-internship/blob/f2b1d2d0081ee8b6a8644114f6f3b6dacf0030b4/Screen%20Recording%202025-05-29%20023808.mp4)
-
-
 
 
 ## Features
