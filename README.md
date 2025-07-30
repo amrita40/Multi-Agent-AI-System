@@ -1,8 +1,8 @@
-# Flowbit-AI-internship# Multi-Agent AI Document & Email Classifier
+# Multi-Agent AI Document & Email Classifier
 
 ## Overview
 
-This project is a multi-agent AI system designed to intelligently process and classify incoming business documents in various formats (PDF, JSON, Email/text). The system automatically detects the format and intent of each input, routes it to the appropriate specialized agent, and maintains a shared context for traceability and chaining.
+This project is a multi-agent AI system designed to intelligently process and classify incoming business documents in various formats (PDF, JSON, Email/text and voice notes). The system automatically detects the format and intent of each input, routes it to the appropriate specialized agent, and maintains a shared context for traceability and chaining.
 
 ---
 
@@ -18,7 +18,7 @@ This project is a multi-agent AI system designed to intelligently process and cl
 ## Features
 
 - **Automatic Format & Intent Classification:**  
-  Detects if input is a PDF, JSON, or Email, and classifies its business intent (e.g., Invoice, RFQ, Complaint, Regulation).
+  Detects if input is a PDF, JSON, or Email,and voice notes and classifies its business intent (e.g., Invoice, RFQ, Complaint, Regulation).
 
 - **Agent-Based Processing:**  
   - **JSON Agent:** Extracts and reformats structured data, flags anomalies or missing fields.
